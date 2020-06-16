@@ -5,6 +5,9 @@
 !.gitignore
 
 # Except: 
+
+# Readme
+!README.md
  
 # basic-project
 !/basic-project
