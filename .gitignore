@@ -1,0 +1,14 @@
+# Ignore...
+# Everything
+/*
+
+!.gitignore
+
+# Except: 
+ 
+# basic-project
+!/basic-project
+/basic-project/node_modules
+/basic-project/package.json
+/basic-project/package-lock.json
+
