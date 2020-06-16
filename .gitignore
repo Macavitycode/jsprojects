@@ -1,17 +1,10 @@
-# Ignore...
-# Everything
-/*
-
-!.gitignore
-
-# Except: 
-
-# Readme
-!README.md
- 
 # basic-project
-!/basic-project
 /basic-project/node_modules
 /basic-project/package.json
 /basic-project/package-lock.json
+
+# clock
+/clock/node_modules
+/clock/package.json
+/clock/package-lock.json
 

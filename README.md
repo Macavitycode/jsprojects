@@ -14,4 +14,3 @@ Add the following to package.json under scripts:
 ```"start":"lite-server",```
 
 To run a project you  can now use ```npm start```
-# jsprojects
